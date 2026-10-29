@@ -1,0 +1,80 @@
+{
+  "source": "OCR",
+  "nutrients": [
+    {
+      "nutrient": "Energy",
+      "value": 546.0,
+      "unit": "kcal",
+      "rda_percent": 5.0,
+      "raw_text": "Energy     | 546 kcal |   5%   |",
+      "review_status": "pending_verification"
+    },
+    {
+      "nutrient": "Protein",
+      "value": 6.9,
+      "unit": "g",
+      "rda_percent": null,
+      "raw_text": "|  Protein                        |       6.9g       |",
+      "review_status": "pending_verification"
+    },
+    {
+      "nutrient": "Carbohydrate",
+      "value": 54.9,
+      "unit": "g",
+      "rda_percent": null,
+      "raw_text": "| Carbohydrate   | 54.9g |",
+      "review_status": "pending_verification"
+    },
+    {
+      "nutrient": "Total Sugars",
+      "value": 1.1,
+      "unit": "g",
+      "rda_percent": null,
+      "raw_text": "|      Total Sugars              |        1.1g         |                                |",
+      "review_status": "pending_verification"
+    },
+    {
+      "nutrient": "Added Sugars",
+      "value": 0.7,
+      "unit": "g",
+      "rda_percent": 0.3,
+      "raw_text": "|       Added Sugars        |        0.7g        |             0.3%            |",
+      "review_status": "pending_verification"
+    },
+    {
+      "nutrient": "Total Fat",
+      "value": 33.2,
+      "unit": "g",
+      "rda_percent": 10.0,
+      "raw_text": "Total Fat          |   33.2 g   |      10%     |",
+      "review_status": "pending_verification"
+    },
+    {
+      "nutrient": "Saturated Fat",
+      "value": 7.6,
+      "unit": "g",
+      "rda_percent": 7.0,
+      "raw_text": "Saturated Fat~          OR           OR\n7.6 g°        7%",
+      "review_status": "pending_verification"
+    },
+    {
+      "nutrient": "Trans Fat",
+      "value": 0.1,
+      "unit": "g",
+      "rda_percent": 1.0,
+      "raw_text": "Trans Fat                          |           0.1g           |                    1%",
+      "review_status": "pending_verification"
+    },
+    {
+      "nutrient": "Sodium",
+      "value": 663.0,
+      "unit": "mg",
+      "rda_percent": 7.0,
+      "raw_text": "Sodium    | 663 mg |  7%  |",
+      "review_status": "pending_verification"
+    }
+  ],
+  "warnings": [],
+  "ready_for_scoring": false,
+  "source_file": "data\\processed\\selected_rows_ocr.txt"
+}

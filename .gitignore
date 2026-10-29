@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Secrets and local configuration
+.env.*
+!.env.example
+
+# Editors and operating system
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files and generated OCR outputs
+temp/
+tmp/
+outputs/
+*.log
